@@ -161,7 +161,7 @@
         <p>
           <img
             align="center"
-            src="https://github-readme-stats.vercel.app/api?username=federi95&show_icons=true&count_private=true&locale=en"
+            src="https://github-readme-stats.vercel.app/api?username=federi95&show_icons=true&theme=dark&count_private=true&locale=en"
             alt="federi95"
           />
         </p>
