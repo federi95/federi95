@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Federico</h1>
+<h1 align="center">
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+  Hi 👋, I'm Federico</h1>
 <h3 align="center">A junior full stack developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
